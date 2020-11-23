@@ -1,6 +1,6 @@
 # testbed.py
 
-# Ref/source: 
+# Ref/source:
 
 # to run script:
 # win    'python_module_template.py'
@@ -45,5 +45,3 @@ if __name__ == "__main__":
     # sys.exit(main(sys.argv))
     main()
 print("\nValue in built variable name is:  ", __name__, "\n")
-
-
